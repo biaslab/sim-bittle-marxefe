@@ -1,0 +1,111 @@
+{
+    "BO": {
+        "label": [
+            "roll",
+            "pitch",
+            "yaw"
+        ],
+        "name": "Base Orientation",
+        "size": 3,
+        "xlabel": "Time",
+        "ylabel": "Orientation (π radians)"
+    },
+    "JT": {
+        "label": [
+            "agent 1",
+            "agent 2",
+            "agent 3",
+            "agent 4",
+            "agent 5",
+            "agent 6",
+            "agent 7",
+            "agent 8"
+        ],
+        "name": "Joint Torques",
+        "size": 8,
+        "xlabel": "Time",
+        "ylabel": "Torque (N/m)"
+    },
+    "JA": {
+        "label": [
+            "agent 1",
+            "agent 2",
+            "agent 3",
+            "agent 4",
+            "agent 5",
+            "agent 6",
+            "agent 7",
+            "agent 8"
+        ],
+        "name": "Joint Angles",
+        "size": 8,
+        "xlabel": "Time",
+        "ylabel": "Angle (π radians)"
+    },
+    "Aprev": {
+        "label": [
+            "agent 1",
+            "agent 2",
+            "agent 3",
+            "agent 4",
+            "agent 5",
+            "agent 6",
+            "agent 7",
+            "agent 8"
+        ],
+        "name": "Previous Action",
+        "size": 8,
+        "xlabel": "Time",
+        "ylabel": "Torque (N/m)"
+    },
+    "BLV": {
+        "label": [
+            "x",
+            "y",
+            "z"
+        ],
+        "name": "Base Linear Velocity",
+        "size": 3,
+        "xlabel": "Time",
+        "ylabel": "Velocity (m/s)"
+    },
+    "BAV": {
+        "label": [
+            "x",
+            "y",
+            "z"
+        ],
+        "name": "Base Angular Velocity",
+        "size": 3,
+        "xlabel": "Time",
+        "ylabel": "Velocity (rad/s)"
+    },
+    "JV": {
+        "label": [
+            "agent 1",
+            "agent 2",
+            "agent 3",
+            "agent 4",
+            "agent 5",
+            "agent 6",
+            "agent 7",
+            "agent 8"
+        ],
+        "name": "Joint Velocities",
+        "size": 8,
+        "xlabel": "Time",
+        "ylabel": "Velocity (π radians/s)"
+    },
+    "FC": {
+        "label": [
+            "FL",
+            "FR",
+            "BL",
+            "BR"
+        ],
+        "name": "Foot Contacts",
+        "size": 4,
+        "xlabel": "Time",
+        "ylabel": "Foot Contact"
+    }
+}
