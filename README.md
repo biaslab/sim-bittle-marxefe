@@ -1,3 +1,3 @@
-# bittle-marxefe
+# sim-bittle-marxefe
 
-Autoregressive active inference agent for simulated Bittle robot.
+Demo of Autoregressive Active Inference Agent (MARX-EFE) for simulated Bittle robot.
